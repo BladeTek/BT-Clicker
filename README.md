@@ -1,7 +1,7 @@
 # BT-Clicker 
 #### BT-Clicker is an auto clicker that gives users wide customization over how it is used.
 
-[link to Google!](http://google.com)
+[Latest version](http://google.com)
 
 ## Features
 #### Mouse Clicker
