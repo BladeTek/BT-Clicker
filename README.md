@@ -2,7 +2,8 @@
 ## [Latest version](https://github.com/BladeTek/BT-Clicker/releases/latest)
 #### BT-Clicker is an auto clicker that gives users wide customization over how it is used.
 
-## Features
+
+# Features
 #### Mouse Clicker
 Mouse Clicker is an auto clicker for your mouse. It gives you the choice of which mouse button it clicks, including extra buttons your mouse may have, and also offers adjustable delay between clicks from 0 to 5 seconds. It is most commonly used when players want to go AFK (Away From Keyboard) without being logged out due to being idle.
 #### Keyboard Clicker
