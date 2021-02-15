@@ -1,7 +1,7 @@
 # BT-Clicker 
 #### BT-Clicker is an auto clicker that gives users wide customization over how it is used.
 
-[Latest version](https://github.com/BladeTek/BT-Clicker/releases/latest)
+##[Latest version](https://github.com/BladeTek/BT-Clicker/releases/latest)
 
 ## Features
 #### Mouse Clicker
