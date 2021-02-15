@@ -1,5 +1,5 @@
 # BT-Clicker 
-####BT-Clicker is an auto clicker that gives users wide customization over how it is used.
+#### BT-Clicker is an auto clicker that gives users wide customization over how it is used.
 
 
 ## Features
